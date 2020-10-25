@@ -1,5 +1,5 @@
 <?php
-namespace Pepijnolivier\Bittrex;
+namespace gizmobin\Bittrex;
 
 use Illuminate\Support\Facades\Facade;
 
