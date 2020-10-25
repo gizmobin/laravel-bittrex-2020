@@ -1,5 +1,5 @@
 {
-  "name": "gizmobin/laravel-bittrex",
+  "name": "gizmobin/laravel-bittrex-2020",
   "description": "Bittrex API wrapper for Laravel",
   "tags": ["bittrex", "api", "laravel"],
   "type": "library",
