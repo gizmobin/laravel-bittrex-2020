@@ -1,4 +1,4 @@
-# Laravel-Bittrex
+# Laravel-Bittrex-2020
 
 Start trading on Bittrex right away using your favorite PHP framework.
 
@@ -12,7 +12,7 @@ Including support for Laravel >=5.6
 
 ### Installation
 
-`composer require gizmobin/laravel-bittrex`.
+`composer require gizmobin/laravel-bittrex-2020`.
 
 Add the service provider to your `config/app.php`:
  
